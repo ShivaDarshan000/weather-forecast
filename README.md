@@ -1,7 +1,5 @@
 # weather-forecast
 
----
-
 A simple and responsive Weather App built using HTML, CSS, and JavaScript that allows users to check real-time weather conditions either by granting location access or by searching for a city.
 
 The app fetches data from the OpenWeatherMap API
@@ -9,49 +7,49 @@ and displays essential weather information like temperature, humidity, wind spee
 
 ---
 
-🚀 Features
+ Features
 
-🌍 Your Weather – Get weather updates using your current location.
+- Your Weather – Get weather updates using your current location.
 
-🔎 Search Weather – Search weather by entering any city name.
+- Search Weather – Search weather by entering any city name.
 
-📍 Location Access – Grant browser location permission to fetch local weather.
+- Location Access – Grant browser location permission to fetch local weather.
 
-🌡️ Detailed Weather Info – Displays:
+-  Detailed Weather Info – Displays:
 
-City & Country Flag
+      * City & Country Flag
 
-Temperature
+      * Temperature
 
-Weather Description
+      * Weather Description
 
-Weather Icon
+      * Weather Icon
 
-Wind Speed
+      * Wind Speed
 
-Humidity
+      * Humidity
 
-Cloud Coverage
+      * Cloud Coverage
 
-⚠️ Error Handling – Handles errors gracefully (e.g., invalid city, API issues, denied location access).
+- Error Handling – Handles errors gracefully (e.g., invalid city, API issues, denied location access).
 
-🎨 Responsive UI – Clean and modern design with gradient background.
-
----
-
-🛠️ Tech Stack
-
-Frontend: HTML5, CSS3, JavaScript (Vanilla JS)
-
-API: OpenWeatherMap
-
-Geolocation: Browser’s navigator.geolocation API
-
+- Responsive UI – Clean and modern design with gradient background.
 
 ---
 
+Tech Stack
 
-📷 Screenshots
+- Frontend: HTML5, CSS3, JavaScript (Vanilla JS)
+
+- API: OpenWeatherMap
+
+- Geolocation: Browser’s navigator.geolocation API
+
+
+---
+
+
+ Screenshots
 
 <img width="898" height="521" alt="image" src="https://github.com/user-attachments/assets/f51e5243-efd6-48ff-bcf2-c233cf6a89bd" />
 <img width="913" height="653" alt="image" src="https://github.com/user-attachments/assets/0d7d3712-4662-4281-8520-c787428cbbac" />
@@ -62,12 +60,12 @@ Geolocation: Browser’s navigator.geolocation API
 ---
 
 
-💡 Future Improvements
+Future Improvements
 
-🌎 Support for multiple languages
+- Support for multiple languages
 
-📅 5-day weather forecast
+- 5-day weather forecast
 
-📱 Progressive Web App (PWA) support for offline usage
+- Progressive Web App (PWA) support for offline usage
 
  
